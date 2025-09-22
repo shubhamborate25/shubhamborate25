@@ -28,3 +28,19 @@ Passionate about building **dynamic, responsive web applications** with modern t
 - E-commerce Website 🛒  
 
 ---
+
+## 📊 GitHub Stats
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamborate25&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamborate25&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shubham-borate-4429771a3)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamborate25@gmail.com)
+
+---
+
+## ✨ Fun Fact
+I love building **responsive & interactive web apps** and exploring **new Java technologies**! 😎💡
