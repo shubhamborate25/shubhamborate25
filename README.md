@@ -42,5 +42,6 @@ Passionate about building **dynamic, responsive web applications** with modern t
 
 ---
 
-## ✨ Fun Fact
-I love building **responsive & interactive web apps** and exploring **new Java technologies**! 😎💡
+## 🎯 Professional Focus
+Primary focus on **Java & Spring Boot** for building backend applications.  
+Currently enhancing skills in **React JS** for building modern, responsive frontends.
