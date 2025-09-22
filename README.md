@@ -43,5 +43,5 @@ Passionate about building **dynamic, responsive web applications** with modern t
 ---
 
 ## 🎯 Professional Focus
-Primary focus on **Java & Spring Boot** for building backend applications.  
-Currently enhancing skills in **React JS** for building modern, responsive frontends.
+- Primary focus: **Java & Spring Boot** for backend development.
+- Currently learning: **React JS** for modern front-end development.
