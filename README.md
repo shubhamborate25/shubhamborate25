@@ -30,7 +30,7 @@ Uruli Kanchan, India
 
 ## 📂 Projects
 - [Contact Manager](https://github.com/shubhamborate25/ContactManager) 📋
-- [Portfolio Website](https://68e346a13b1df77296fe72ce--monumental-haupia-dc27aa.netlify.app/) 🌐  
+- [Portfolio Website](https://shubhamborate-portfolio.netlify.app/) 🌐  
 - E-commerce Website 🛒  
 
 ---
