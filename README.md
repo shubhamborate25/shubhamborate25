@@ -50,4 +50,4 @@ Uruli Kanchan, India
 
 ## 🎯 Professional Focus
 - Primary focus: **Java & Spring Boot** for backend development.
-- Currently learning: **React JS** for modern front-end development.
+- Currently learning: Data Structures and Algorithms (DSA) for improving problem-solving and coding skills.
