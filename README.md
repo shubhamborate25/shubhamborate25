@@ -36,10 +36,10 @@ Uruli Kanchan, India
 ---
 
 ## 📊 GitHub Stats
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamborate25&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamborate25&layout=compact&theme=radical)
 
----
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamborate25&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamborate25&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shubham-borate-4429771a3)
